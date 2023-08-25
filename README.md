@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anshul9911
 - 👀 I’m interested in building things 
 - 🌱 I’m currently learning C++, Python, JavaScript, HTML, CSS, Ruby, GO, C
-- 💞️ I'm currently trying to get job 
+- 💞️ I'm currently trying to get job  in IT and startups
 - 📫 You can reach me on anshulradiant999@gmail.com
 
 <!---
